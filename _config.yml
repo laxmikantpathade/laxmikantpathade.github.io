@@ -41,10 +41,24 @@ url: [assets/resume-laxmikantpathade.pdf] # [mandatory] url of the curriculum fi
 # cc: [by] #creative commons share alike licence; default is (c)
 
 # Build settings
-markdown: kramdown
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes", "with_toc_data"]
 theme: academic
-plugins:
+gems:
   - jekyll-feed
+exclude:
+  - jekyll_build.sh
+  - Gemfile
+  - Gemfile.lock
+
+
+
+#markdown: kramdown
+#theme: academic
+#plugins:
+#  - jekyll-feed
 
 
 # Exclude from processing.
