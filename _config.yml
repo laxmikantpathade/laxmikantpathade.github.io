@@ -36,8 +36,8 @@ linkedin_username: laxmikantpathade
 #keybase_username: [optional]
 #your Keybase username. If it exists, your account will be linked on the about page.
 curriculum:
-name: Resume # [optional] text of the link. Default : Curriculum Vitae.
-url: assets/resume-laxmikantpathade.pdf # [mandatory] url of the curriculum file.
+name: [Resume] # [optional] text of the link. Default : Curriculum Vitae.
+url: [assets/resume-laxmikantpathade.pdf] # [mandatory] url of the curriculum file.
 # cc: [by] #creative commons share alike licence; default is (c)
 
 # Build settings
