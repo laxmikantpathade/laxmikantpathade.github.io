@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Laxmikant Pathade
-email: laxmikant.pathade@gmail.co
+email: laxmikant.pathade@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "laxmikantpathade.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: LaxPathade_LP
 github_username:  laxmikantpathade
 
 # Build settings
@@ -29,6 +29,25 @@ markdown: kramdown
 theme: academic
 plugins:
   - jekyll-feed
+
+title_html: "<b>Laxmikant Pathade </b>" # name of site in top left corner
+description: [Laxmikant Pathade Personal Website Graduate Student Syracuse University Materials Chemistry Nanomaterials]
+#[recommended] short description for search engines. It's displayed in the footer of every page. Not to be confused with pitch
+
+cc: [by]
+
+curriculum: [optional]
+name: [Curriculum Vitae] # [optional] text of the link. Default : Curriculum Vitae.
+url: [placehoder.com] # [mandatory] url of the curriculum file.
+
+github_username: [laxmikantpathade]
+#your Github username. If it exists, your account will be linked in the footer and on the about page.
+linkedin_username: [laxmikantpathade]
+#your LinkedIn username. If it exists, your account will be linked on the about page.
+#keybase_username: [optional]
+#your Keybase username. If it exists, your account will be linked on the about page.
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
