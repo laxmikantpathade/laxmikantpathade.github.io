@@ -1,3 +1,11 @@
-_site
+*.gem
+*.sh
+assets/img
+.bundle
 .sass-cache
-.jekyll-metadata
+_site
+_posts
+_config.yml
+*.md
+!README.md
+Gemfile.lock
