@@ -4,4 +4,4 @@ title: CV
 permalink: /CV/
 ---
 
-This is the CV page.
+[CV](resume-laxmikantpathade.pdf)

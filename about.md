@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+* Powered by [Jekyll](https://jekyllrb.com/)
+* Many thanks to [Gabriel Alcaras](https://github.com/gaalcaras/academic) for providing this great Jekyll theme.
+* Hosted on GitHub thanks to [GitHub Pages](https://github.com/laxmikantpathade/laxmikantpathade.github.io)
+* Licensed under a Creative Commons Attribution-ShareAlike 4.0 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
+* Thanks to [overleaf.com](https://overleaf.com) for help with Latex editing.

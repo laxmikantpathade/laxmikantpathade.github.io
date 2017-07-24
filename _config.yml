@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Laxmikant Pathade #in the tab area
 title_html: "<b>Laxmikant Pathade </b>" # name of site in top left corner
-description: Laxmikant Pathade is Materials Chemistry Graduate Student at Syracuse University.
+description: Last Updated July 2017.
 # this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
@@ -33,13 +33,12 @@ github_username:  laxmikantpathade
 #your Github username. If it exists, your account will be linked in the footer and on the about page.
 linkedin_username: laxmikantpathade
 #your LinkedIn username. If it exists, your account will be linked on the about page.
-orcid_username: 0000-0001-7249-4247
 #keybase_username: [optional]
 #your Keybase username. If it exists, your account will be linked on the about page.
 curriculum:
-name: [Resume] # [optional] text of the link. Default : Curriculum Vitae.
-url: [assets/resume-laxmikantpathade.pdf] # [mandatory] url of the curriculum file.
-# cc: [by] #creative commons share alike licence; default is (c)
+  name: Resume # [optional] text of the link. Default : Curriculum Vitae.
+  url: assets/resume-laxmikantpathade.pdf # [mandatory] url of the curriculum file.
+cc: [by] #creative commons share alike licence; default is (c)
 
 # Build settings
 
