@@ -48,7 +48,8 @@ cc: #creative commons share alike licence; default is (c)
 nav_ext_links:
   - name: test
     url: https://twitter.com/LaxPathade_LP
-
+  - name: test1
+    url: https://twitter.com/lp
 
 
 # Build settings
