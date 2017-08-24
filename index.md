@@ -14,6 +14,14 @@ My graduate research deals with transition metal nanoparticles. Mainly, the morp
 
 I obtained my Bachelors of Technology degree from the [Institute of Chemical Technology](https://en.wikipedia.org/wiki/Institute_of_Chemical_Technology) in Mumbai.
 
+
+<select>
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="opel">Opel</option>
+  <option value="audi">Audi</option>
+</select>
+
 [project<span class="caret"></span>](/project "project")
    [Research](/project/research)
    [Publication](/project/publication)
