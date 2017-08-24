@@ -13,18 +13,3 @@ I'm currently a PhD candidate in solid state chemistry, working with [Dr Mathew 
 My graduate research deals with transition metal nanoparticles. Mainly, the morphological evolution in core/shell type nanomaterials due to oxidative Kirkendall phenomenon (e.g. formation of internal voids). Further research focuses on utilizing our findings to create highly corrosion resistant nanoscale "*stainless Steel*".
 
 I obtained my Bachelors of Technology degree from the [Institute of Chemical Technology](https://en.wikipedia.org/wiki/Institute_of_Chemical_Technology) in Mumbai.
-
-
-
-**************** work in progress ***********
-<select>
-  <option value="volvo">Volvo</option>
-  <option value="Research">(/project/research)</option>
-  <option value="opel">Opel</option>
-  <option value="audi">Audi</option>
-</select>
-
-[project<span class="caret"></span>](/project "project")
-   []
-   [Publication](/project/publication)
-   [Teaching](/project/teaching)
