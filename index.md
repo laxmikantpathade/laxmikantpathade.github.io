@@ -17,11 +17,8 @@ I obtained my Bachelors of Technology degree from the [Institute of Chemical Tec
 * still working on this website,
 
 //<div class="page">
-*   [Resume](/assets/resume-laxmikantpathade.pdf "Resume")
-*   [CV](/assets/CV-laxmikantpathade.pdf "CV")
 *   [Projects<span class="caret"></span>](/projects "Projects")
     *   [Research](/projects/research)
     *   [Publication](/projects/publication)
     *   [Teaching](/projects/Teaching)
-
 //</div>
