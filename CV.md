@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  
+title: CV
 permalink: /CV/
 ---
 
-[CV](resume-laxmikantpathade.pdf)
+(resume-laxmikantpathade.pdf)
