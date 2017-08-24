@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /projects/research
+permalink: /research
 ---
 
 lores ipsum
