@@ -46,10 +46,11 @@ cc: #creative commons share alike licence; default is (c)
 
 # Nav menu
 nav_ext_links:
-  - name: test
-    url: https://twitter.com/LaxPathade_LP
-  - name: test1
-    url: https://twitter.com/lp
+  - name: CV
+    url: assets/CV-laxmikantpathade.pdf
+# can add more pages here
+# - name: test1
+#    url: https://twitter.com/lp
 
 
 # Build settings
