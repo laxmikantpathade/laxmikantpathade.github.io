@@ -40,6 +40,14 @@ curriculum:
   url: assets/resume-laxmikantpathade.pdf # [mandatory] url of the curriculum file.
 cc: #creative commons share alike licence; default is (c)
 
+
+# Nav menu
+nav_ext_links:
+  - name: test
+    url: https://twitter.com/LaxPathade_LP
+
+
+
 # Build settings
 
 markdown: redcarpet
