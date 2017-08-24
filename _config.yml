@@ -35,6 +35,9 @@ linkedin_username: laxmikantpathade
 #your LinkedIn username. If it exists, your account will be linked on the about page.
 #keybase_username: [optional]
 #your Keybase username. If it exists, your account will be linked on the about page.
+
+author_website: https://lpathade.expressions.syr.edu [WP site]
+
 curriculum:
   name: Resume # [optional] text of the link. Default : Curriculum Vitae.
   url: assets/resume-laxmikantpathade.pdf # [mandatory] url of the curriculum file.
