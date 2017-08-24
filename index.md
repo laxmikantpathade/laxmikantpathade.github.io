@@ -14,7 +14,7 @@ My graduate research deals with transition metal nanoparticles. Mainly, the morp
 
 I obtained my Bachelors of Technology degree from the [Institute of Chemical Technology](https://en.wikipedia.org/wiki/Institute_of_Chemical_Technology) in Mumbai.
 
-[Projects<span class="caret"></span>](/projects "Project")
+[project<span class="caret"></span>](/project "project")
    [Research](/project/research)
    [Publication](/project/publication)
    [Teaching](/project/teaching)
