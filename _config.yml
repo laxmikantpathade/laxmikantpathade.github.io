@@ -39,15 +39,15 @@ linkedin_username: laxmikantpathade
 author_website: https://orcid.org/0000-0001-7249-4247
 
 curriculum:
-  name: Resume # [optional] text of the link. Default : Curriculum Vitae.
-  url: assets/resume-laxmikantpathade.pdf # [mandatory] url of the curriculum file.
+  name:  # [optional] text of the link. Default : Curriculum Vitae.
+  url: assets/CV-laxmikantpathade.pdf # [mandatory] url of the curriculum file.
 cc: #creative commons share alike licence; default is (c)
 
 
 # Nav menu
 nav_ext_links:
-  - name: CV
-    url: assets/CV-laxmikantpathade.pdf
+  - name: resume
+    url: assets/resume-laxmikantpathade.pdf
 # can add more pages here
 # - name: test1
 #    url: https://twitter.com/lp
