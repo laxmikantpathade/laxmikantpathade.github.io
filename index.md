@@ -17,12 +17,12 @@ I obtained my Bachelors of Technology degree from the [Institute of Chemical Tec
 
 <select>
   <option value="volvo">Volvo</option>
-  <option value="saab">Saab</option>
+  <option value="Research">(/project/research)</option>
   <option value="opel">Opel</option>
   <option value="audi">Audi</option>
 </select>
 
 [project<span class="caret"></span>](/project "project")
-   [Research](/project/research)
+   []
    [Publication](/project/publication)
    [Teaching](/project/teaching)
