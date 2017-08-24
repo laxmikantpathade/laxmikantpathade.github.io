@@ -38,7 +38,7 @@ linkedin_username: laxmikantpathade
 curriculum:
   name: Resume # [optional] text of the link. Default : Curriculum Vitae.
   url: assets/resume-laxmikantpathade.pdf # [mandatory] url of the curriculum file.
-cc: [by] #creative commons share alike licence; default is (c)
+cc: [by] 4.0  #creative commons share alike licence; default is (c)
 
 # Build settings
 
