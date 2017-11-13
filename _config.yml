@@ -40,7 +40,7 @@ author_website: https://orcid.org/0000-0001-7249-4247 #see website html & svg de
 
 curriculum:
   name: Curriculum-Vitae # [optional] text of the link. Default : Curriculum Vitae.
-  url: assets/CV-laxmikantpathade.pdf # [mandatory] url of the curriculum file.
+  url: assets/cv-laxmikantpathade.pdf # [mandatory] url of the curriculum file.
 cc: #creative commons share alike licence; default is (c)
 
 
