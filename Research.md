@@ -4,4 +4,4 @@ title: Research
 permalink: /research
 ---
 
-lores ipsum
+Under Construction. Please check back later.
