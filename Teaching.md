@@ -5,4 +5,4 @@ permalink: /teaching
 ---
 
 
-Please email me at lpathade-at-syr-dot-edu
+Please email me at laxmikant-dot-pathade-at-gmail-dot-com
