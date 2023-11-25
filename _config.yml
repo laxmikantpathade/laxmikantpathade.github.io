@@ -1,0 +1,88 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Laxmikant Pathade #in the tab area
+title_html: "<b>Laxmikant Pathade </b>" # name of site in top left corner
+description: Last Updated November 2017.
+# this means to ignore newlines until "baseurl:"
+#  Write an awesome description for your new site here. You can edit this
+# line in _config.yml. It will appear in your document head meta (for
+#  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+
+url: "https://laxmikantpathade.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+#Author
+author: Laxmikant Pathade
+email: your-email@example.com
+title_html: "<b>Laxmikant Pathade </b>" # name of site in top left corner
+description: Last Updated November 2023.
+
+email: laxmikant.pathade@gmail.com
+twitter_username: LaxPathade_LP
+github_username:  laxmikantpathade
+#your Github username. If it exists, your account will be linked in the footer and on the about page.
+linkedin_username: laxmikantpathade
+#your LinkedIn username. If it exists, your account will be linked on the about page.
+#keybase_username: [optional]
+#your Keybase username. If it exists, your account will be linked on the about page.
+
+author_website: https://orcid.org/0000-0001-7249-4247 #see website html & svg details in includes/icons for details.
+
+##curriculum:
+##  name: Curriculum-Vitae # [optional] text of the link. Default : Curriculum Vitae.
+##  url: assets/cv-laxmikantpathade.pdf # [mandatory] url of the curriculum file.
+cc: #creative commons share alike licence; default is (c)
+
+
+# Nav menu
+nav_ext_links:
+  - name: resume
+    url: assets/resume-laxmikantpathade.pdf
+# can add more pages here
+# - name: test1
+#    url: https://twitter.com/lp
+
+
+
+# Build settings
+theme: academic
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
